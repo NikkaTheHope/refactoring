@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/refactoring/static/js/main.27beaf56.js",
+    "index.html": "/refactoring/index.html",
+    "main.27beaf56.js.map": "/refactoring/static/js/main.27beaf56.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27beaf56.js"
+  ]
+}
